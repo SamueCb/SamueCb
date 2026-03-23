@@ -1,7 +1,7 @@
 # 🌐 Portfolio
 🔗 https://samuelchimwendo.online  
 
-![Portfolio Preview](https://samuelchimwendo.online)
+
 
 ---
 
